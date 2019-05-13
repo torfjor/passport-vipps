@@ -5,10 +5,10 @@ Example app with passport-vips.
 
 ## Installation
 
-Install passport-vips from npm:
+Clone or download this repository
 
 ```bash
-npm install passport-vipps
+git clone https://github.com/torors/passport-vipps.git
 ```
 
 ## Running
