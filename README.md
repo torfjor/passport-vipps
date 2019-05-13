@@ -1,2 +1,3 @@
 # passport-vipps
-Vipps Login/Signup strategy for Passport
+
+Passport strategy for Vipps Signup/Login
