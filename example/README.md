@@ -12,7 +12,7 @@ Clone or download this repository
 git clone https://github.com/torors/passport-vipps.git
 ```
 
-## Running
+## Usage
 The example assumes the following environment variables are set:
 
 * VIPPS_CLIENT_ID
@@ -25,6 +25,8 @@ Get these values from the Vipps Developer Portal.
 
 The example also assumes to find a MongoDB connection string under the following environment variable:
 * DB
+
+Make sure to set `callbackUrl`, `consentRemovalUrl` and `vippsCallback` to some externally accessible URLs, as the Vipps  API chokes on local addresses.
 
 ```bash
 cd example/
