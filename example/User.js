@@ -11,6 +11,9 @@ const userSchema = new Schema({
   email: {
     type: String
   },
+  mobileNumber: {
+    type: String
+  },
   userId: {
     type: String,
     unique: true
