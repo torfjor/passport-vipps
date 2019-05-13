@@ -1,6 +1,6 @@
 {
   "name": "passport-vipps",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vipps Login/Signup strategy for Passport",
   "repository": {
     "url": "git://github.com/torors/passport-vipps.git"
