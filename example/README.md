@@ -2,8 +2,6 @@
 
 Example app with passport-vips.
 
-![](Screengrab.gif)
-
 ## Installation
 
 Clone or download this repository
