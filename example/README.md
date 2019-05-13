@@ -1,7 +1,8 @@
-![](Screengrab.gif)
 # Example
 
 Example app with passport-vips.
+
+![](Screengrab.gif)
 
 ## Installation
 
