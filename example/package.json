@@ -17,7 +17,7 @@
     "mongoose": "^5.5.7",
     "nanoid": "^2.0.1",
     "passport": "^0.4.0",
-    "passport-vipps": "torors/passport-vipps",
+    "passport-vipps": "^0.0.3",
     "pug": "^2.0.3"
   }
 }
