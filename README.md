@@ -2,8 +2,6 @@
 
 Passport strategy for [Vipps Signup/Login API](https://github.com/vippsas/vipps-signuplogin-api)
 
-Simple one-tap Signup/Login for your Express apps!
-
 **WIP! Expect things to break! Also, Vipps is working on a new API in collboration with BankID, replacing Signup/Login. No word on when this will be available, though. Your efforts may be wasted, you have been warned!**
 
 ![](example/Screengrab.gif)
