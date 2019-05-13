@@ -1,1 +1,1 @@
-![](example/Screengrab.gif)
+![](Screengrab.gif)
