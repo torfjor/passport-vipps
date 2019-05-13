@@ -1,0 +1,8 @@
+extends layout.pug
+append head
+  title Welcome
+block content
+  h1 Welcome, #{user.firstName}!
+  h2 Your details:
+  pre #{user}
+  a(href="/logout") Log out

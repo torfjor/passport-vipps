@@ -1,0 +1,29 @@
+{
+  "name": "passport-vipps",
+  "version": "0.0.1",
+  "description": "Vipps Login/Signup strategy for Passport",
+  "repository": {
+    "url": "git://github.com/torors/passport-vipps.git"
+  },
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^9.6.0",
+    "nanoid": "^2.0.1",
+    "passport-strategy": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^9.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
