@@ -2,6 +2,8 @@
 
 Passport strategy for [Vipps Signup/Login API](https://github.com/vippsas/vipps-signuplogin-api)
 
+![](example/Screengrab.gif)
+
 [See example](example/README.md)
 
 ## Install
