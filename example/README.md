@@ -19,7 +19,11 @@ The example assumes the following environment variables are set:
 * VIPPS_APP_KEY
 * VIPPS_TOKEN_KEY
 * VIPPS_MERCHANT_SERIAL_NUMBER
-* DB MongoDB connection string
+
+Get these values from the Vipps Developer Portal.
+
+The example also assumes to find a MongoDB connection string under the following environment variable:
+* DB
 
 ```bash
 cd example/
